@@ -1,0 +1,3 @@
+[submodule "extLib/httpLib"]
+	path = extLib/httpLib
+	url = https://github.com/yhirose/cpp-httplib
